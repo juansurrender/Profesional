@@ -1,0 +1,828 @@
+.containerone{
+    background-size: cover;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 10%;
+    padding-bottom: 8%;
+    background-position: center;
+    background-image: url(https://static.thcdn.com/images/xlarge/original/app/uploads/sites/450/2021/09/healthy-shopping-list-hero-min_1631794752_1632222912.jpg)
+}
+
+.bloquepresentacion{
+background-color: rgba(0, 0, 0, 0.651);
+color: white;
+
+margin-right: 417px;
+padding-left: 10px;
+
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+.clinica{
+    font-size: 39px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 4%;
+    padding-left: 4%;
+}
+.lineamorada{
+    width: 22%;
+    margin-left: -1px;
+    height: 5px;
+    border-radius: 4px;
+    background: purple;
+    margin-left: 28px;
+}
+.ppresentacion{
+    font-size: 18px;
+    padding: 25px;
+    font-family: sans-serif;
+    
+}
+.containertwo{
+    background-color:#E8E5DF;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.containertreh{
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+
+.containerdoble{
+    background-color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    column-gap: 50px;
+    padding-left: 25%;
+    padding-right: 25%;
+   
+  
+}
+.pclinica{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+}
+
+.adolf{
+width: 510px;
+border-bottom-left-radius: 150px;
+border-top-right-radius: 150px;
+margin-top: -111px;
+}
+.pclinicadown{
+    margin-top: 63px;
+}
+.reservas{
+    text-align: center;
+    padding-top: 25px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 35px
+}
+.hrreservas{
+    width: 50px;
+    height: 5px;
+    border-radius: 15px;
+    color: black;
+    background-color: black;
+    align-items: center;
+}
+.titulosdesplegables{
+    padding-bottom: 2px;
+}
+.firsttripode{
+    text-align: center;
+    width: 33%;
+}
+.imagentripode{ 
+    border-radius:  385px;
+    width: 132px;
+    height: 126.8px;
+    margin-left: 19px;
+}
+.tripodetittle{
+    margin-left: 17px;
+}
+.pfirsttripode{
+    text-align: center;
+    align-content: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 19px;
+    
+}
+.buttonsaber{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    padding: 2%;
+    margin-top: 15px;
+    background-color:bisque;
+    border-color: bisque;
+    cursor: pointer;
+   }
+.buttonsaber:hover{
+    background-color: black;
+    color: white;
+    
+}
+.tripode{
+    display: flex;
+    flex-direction: row;
+    
+   }
+.lifirsttripode{
+    list-style: none;
+}
+.lifirsttripodesecond{
+    margin-top: 4px;
+    list-style: none;
+}
+.lifirsttripodethird{
+    margin-top: 17px;
+    list-style: none;
+}
+.containerfour{
+    background-color: #E8E5DF;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+
+.d-none{
+    display: none;
+
+}
+.firstHdesplegable{
+width: 100%;
+background: white;
+font-size: 19px;
+padding-bottom: 20px;
+padding-top: 20px;
+padding-left: 24px;
+padding-right: 24px;
+cursor: pointer;
+}
+
+.firstdesplegable {
+margin-top: -26px;
+padding: 0 24px 24px 24px;
+width: 100%;
+background: white;
+padding-bottom: 1px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16.5px;
+padding-bottom: 10px;
+}
+.seconddesplegable {
+    margin-top: -26px;
+    padding:0 24px 24px 24px;
+    width: 100%;
+    background: white;
+    padding-bottom: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16.5px;
+    padding-bottom: 10px;
+}
+.secondHdesplegable{
+ width: 100%;
+ background: white;
+ font-size: 19px;
+ padding-bottom: 20px;
+padding-top: 20px;
+ padding-left: 24px;
+ padding-right: 24px;
+cursor: pointer;
+}
+.thirddesplegable {
+    
+    margin-top: -26px;
+    padding: 0 24px 24px 24px;
+    width: 100%;
+    background: white;
+    padding-bottom: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16.5px;
+    padding-bottom: 10px;
+}
+.thirdHdesplegable{
+    
+    width: 100%;
+    background: white;
+    margin-right: 0px;
+    font-size: 19px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 24px;
+    padding-right: 24px;
+    cursor: pointer;
+}
+
+.fourdesplegable {
+margin-top: -26px;
+padding: 0 24px 24px 24px;
+width: 100%;
+background: white;
+padding-bottom: 1px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16.5px;
+padding-bottom: 10px;
+}
+.fourHdesplegable{
+ width: 100%;
+background: white;
+font-size: 19px;
+padding-bottom: 20px;
+padding-top: 20px;
+padding-left: 24px;
+padding-right: 24px;
+cursor: pointer;
+}
+.fivedesplegable {
+margin-top: -26px;
+padding:0 24px 24px 24px;    
+width: 100%;
+background: white;
+padding-bottom: 1px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16.5px;
+padding-bottom: 10px;
+}
+.fiveHdesplegable{
+ width: 100%;
+background: white;
+font-size: 19px;
+padding-bottom: 20px;
+padding-top: 20px;
+padding-left: 24px;
+padding-right: 24px;
+cursor: pointer;
+}
+.fivedesplegable {
+margin-top: -26px;
+padding: 0 24px 24px 24px;
+width: 100%;
+background: white;
+padding-bottom: 1px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 16.5px;
+padding-bottom: 10px;
+}
+.fiveHdesplegable{
+ width: 100%;
+background: white;
+font-size: 19px;
+padding-bottom: 20px;
+padding-top: 20px;
+padding-left: 24px;
+padding-right: 24px;
+cursor: pointer;
+}
+.sixdesplegable{
+    margin-top: -26px;
+    padding: 0 24px 24px 24px;
+    width: 100%;
+    background: white;
+    padding-bottom: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16.5px;
+    padding-bottom: 10px;
+}
+.sixHdesplegable{
+    width: 100%;
+    background: white;
+    font-size: 19px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+padding-left: 24px;
+padding-right: 24px;
+    cursor: pointer;
+}
+.sevendesplegable{
+    margin-top: -26px;
+    padding: 0 24px 24px 24px;
+    width: 100%;
+    background: white;
+    padding-bottom: 1px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16.5px;
+    padding-bottom: 10px;
+}
+.sevenHdesplegable{
+    width: 100%;
+    background: white;
+    font-size: 19px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+padding-left: 24px;
+padding-right: 24px;
+    cursor: pointer;
+}
+.firstcarrusel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+.fivecarrusel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+.secondcarrusel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+.thirdcarrusel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+.fourcarrusel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  
+}
+
+.contenidocarrusel{
+    display: flex;
+    flex-direction: row;
+    margin-top: 9px;
+    
+}
+.reseña{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+.palito{
+margin-top: 16px;
+padding-left: 3px;
+padding-right: 3px;
+}
+.areseña{
+margin-top: 15px;
+}
+.hrcarrusel{
+    width: 9%;
+    margin-left: 44px;
+    height: 4px;
+    background: black;
+    border-radius: 200px;
+}
+.toxo{
+    width: 44%;
+}
+.fotocarrusel{
+    width:212.64px ;
+    height: 212px;
+    border-radius: 397px;
+}
+.comillas{
+    width: 32px;
+    height: 32px;
+}
+.down{
+    margin-top: 49px;
+}
+.up{
+    padding-right: 13px;
+}
+.pcarrusel{
+    width: 70%;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.puntos{/*  estoy haciendo caso al video  a partir de ahora
+    */
+   width: 100%;
+   padding: 1em;
+   display: flex;
+   flex-flow:row nowrap;
+   justify-content: center;
+   align-items: center;
+}
+.hover:hover{
+  background-color: black  ;
+}
+.puntoone{
+    width: 2em;
+    height: 2em;
+    background-color: #E8E5DF;
+    margin: 1em;
+    list-style: none;
+    border-radius: 200px;
+    cursor: pointer;
+}
+.puntotwo{
+    width: 2em;
+    height: 2em;
+    background-color: #E8E5DF;
+    margin: 1em;
+    list-style: none;
+    border-radius: 200px;
+    cursor: pointer;
+}
+.puntothree{
+    width: 2em;
+    height: 2em;
+    background-color: #E8E5DF;
+    margin: 1em;
+    list-style: none;
+    border-radius: 200px;
+    cursor: pointer;
+}
+.puntofour{
+    width: 2em;
+    height: 2em;
+    background-color: #E8E5DF;
+    margin: 1em;
+    list-style: none;
+    border-radius: 200px;
+    cursor: pointer;
+}
+.puntofive{
+    width: 2em;
+    height: 2em;
+    background-color: #E8E5DF;
+    margin: 1em;
+    list-style: none;
+    border-radius: 200px;
+    cursor: pointer;
+}
+
+
+.carrusels{
+  
+    
+}
+.activo{
+    background-color: black;
+}
+.containerfive{
+overflow: hidden;
+padding-right: 25%;
+padding-left: 25%;
+padding-top: 0%;
+padding-bottom: 0%;
+}
+.tnone{
+    display: none;
+}
+.tblock{
+    display: block;
+}
+.stars{
+    display: flex;
+    flex-direction: row;
+    padding-left: 41px;
+}
+.star{
+    width: 32px;
+    height: 32px;
+   padding: 2px;
+}
+.containersix{
+    background-color: #E8E5DF;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 1%;
+    padding-bottom: 4%;
+}
+.credenciales{
+    width: 50%;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.pcredenciales{
+    text-align: center;
+}
+.WhatsAppcontiner{display: flex;
+align-items: center;
+justify-content: center;
+}
+.horario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.horarios{
+    text-align: center;
+}
+.imagenwhats{
+    padding-right: 18px;
+}
+.formulario{
+    width: 40%;
+}
+.twoxtwo{
+    display: flex;
+}
+
+.inputform{
+width: 100%;
+height: 60PX;
+padding-left: 21px;
+font-size: 18px;
+font-family: sans-serif;
+}
+.divform{
+    padding: 10px 0px 10px;
+}
+.formtexto{
+    width: 100%;
+height: 60PX;
+padding-left: 21px;
+}
+.formtextarea{
+    width: 100%;
+    height: 98px;
+    padding-top: 15px;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding-left: 23px;
+}
+.divtextarea{
+padding: 10px 0px 10px;
+
+}
+.formbutton{
+    width: 109%;
+    height: 60px;
+    font-size: 18px;
+    font-family: sans-serif;
+    background-color: #FFE4C4;
+    color: black;
+    border-color: #dba35e;
+    border-radius: 15px;
+}
+.formbutton:hover{
+    color: white;
+    background-color: black;
+}
+.placehold{
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.blogone{
+display: flex;
+flex-direction: column;
+}
+.imageblog{
+    width: 16,6%;
+}
+.toxoblog{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 0px 0px 0px 15px;
+}
+.inata{    width: 261px;
+    height: 217px;
+    padding: 19px 0px 19px 0px;
+}
+.atoxoblog{
+color: black;
+text-decoration-line: none;
+
+}
+.atoxoblog:hover{
+    color: orange;
+}
+.blogs{
+display: flex;
+justify-content: space-evenly;
+}
+.containerheight{
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+.containernine{
+    background-color: #E8E5DF;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+.fotoyo{
+height: 500px;
+border-radius: 15px;
+}
+.fotoyoyo{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.pyo{
+    text-align: center;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.comida{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    padding: 0px 0px 0px 15px;
+}
+.pcomida{
+    width: 100%;
+}
+.body{
+  
+}
+.containerpadding{
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+.containerten{
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+.fotocomida{    width: 193px;
+    height: 193px;
+    padding: 19px 0px 19px 0px;
+}
+.pestopesto{
+    
+}
+.remolacharemolacha{
+   
+}
+.instagramfooter{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    
+    background-color: black;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+.hastags{
+    color: white;
+font-family: sans-serif;
+font-size: 12px;
+padding: 6px;
+
+
+;}
+.listafooter{
+    display: flex;
+    justify-content: center;
+}
+.limarkerpfone{list-style: none;
+    
+
+}
+.apf{text-decoration: none}
+
+.pfooter{color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+text-align: center;
+}
+.limarkerpftwo{list-style: none;
+    
+
+}
+.limarkerpfthre{list-style: none;
+    
+
+}
+.limarkerpffour{list-style: none;
+    
+
+}
+.limarkerpffive{list-style: none;
+    
+
+}
+.limarkerpfsix{list-style: none;
+    
+
+}
+.limarkerpfseven{list-style: none;
+    
+
+}
+.limarkerpfeight{list-style: none;
+    
+
+}
+.predesplegable{
+display: flex;
+flex-direction: row;
+cursor: pointer;
+color:white;
+align-items: center;
+}
+
+.header{
+    display: flex;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color:black;
+    
+    align-items: center;
+}
+.aheader{
+    color: white;
+    text-decoration: none;
+    margin-left: 1px;
+    
+    font-size: 16px;
+    
+}
+.imgmas{
+ transform: rotate(180deg);
+ width: 32px;
+ height: 32px;
+}
+.spanheader{
+    cursor: pointer;
+    
+}
+.spanheader:hover{
+    color: yellow;
+}
+.oculto{
+    display: none;
+    flex-direction: column;
+
+}
+.spanoculto{
+    color: white;
+    text-decoration: none;    
+}
+.spanoculto:hover{
+    color: yellow;
+
+}
+.dropdown{
+    position: absolute;
+    background-color: black;
+    padding-top: 13px;
+    text-align: center;
+    padding-left: 0px;
+    
+}
+.markernone{
+    list-style: none;
+    text-decoration: none;
+    padding-top: 21px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 11px;
+
+}
+.redesheader {
+    display: flex;
+    padding-left: 21px;
+}
+.fotoheader{width:32px ;
+height:32px ;}
+.instagramheader{
+    padding-right: 21px;
+}
+.adropdown{
+    text-decoration: none;
+}
+.pmas:hover{
+    color: yellow;
+    
+    
+}
+.displaynone{
+    display: none;
+}
+.rotate{
+    transform: rotate(0deg);
+}
+.liheader{
+    text-align: center;
+   
+}
+.cosasheader{
+    display: flex;
+    list-style: none;
+}
+.hastags:hover{
+    color:yellow;
+}
